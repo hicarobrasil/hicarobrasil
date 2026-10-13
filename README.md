@@ -8,10 +8,10 @@
 ### :reminder_ribbon: Contact:
 <p>
   <img align="right" width="200" src="./img/programming-computer-frog.gif" />
-<a href="https://www.linkedin.com/in/hicaro-brasil-045548220/" alt="Linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/hicaroobrasil/" alt="Linkedin" target="_blank">
   <img width="90" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> 
 </a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hicaro.brasil@academico.ifpb.edu.br" alt="Email" target="_blank">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hicaro.brasil23@gmail.com" alt="Email" target="_blank">
 
 <img src ="./img/gmail.svg" width="90" height= "50" />
 </a>
